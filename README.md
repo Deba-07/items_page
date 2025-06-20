@@ -13,6 +13,15 @@ A simple and interactive React app that lets users add and view items (e.g., clo
 - 💾 State persists with Zustand (can be disabled easily)
 
 ---
+---
+
+## 🌐 Deployed Link
+
+The project is live and accessible at:
+
+🔗 [https://moonlit-bubblegum-c8640f.netlify.app/view-items](https://moonlit-bubblegum-c8640f.netlify.app/view-items)
+
+---
 
 ## 🧪 Tech Stack
 
